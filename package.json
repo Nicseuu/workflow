@@ -1,0 +1,8 @@
+{
+  "name": "n8n-railway",
+  "version": "1.0.0",
+  "description": "n8n deployed on Railway",
+  "scripts": {
+    "start": "n8n start"
+  }
+}
